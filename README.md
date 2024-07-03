@@ -1,6 +1,9 @@
 # PWC_Internship
 
-## ✨ 𝐓𝐚𝐬𝐤 𝟏 : Call Centre Analysis
+» During this program, I performed various tasks that helped me learn essential skills required for data analysis and data visualization using Power BI in a meaningful manner.
+
+
+ ## ✨ 𝐓𝐚𝐬𝐤 𝟏 : Call Centre Analysis
 ► As a part of the PwC Switzerland Virtual Internship Program offered by Forage, I have created a "Call Center Analysis" Dashboard, using Power BI. This dataset containing call records from a customer service center. Each row represents a call with various attributes such as Call Id, Agent, Date, Time, Topic, whether it was Answered (Yes/No), Resolved, Speed of answer in seconds, and Average Talk Duration. 
 
 ### ➡️ Objective:
@@ -8,54 +11,68 @@
 
 ### ➡️ 𝐈𝐧𝐬𝐢𝐠𝐡𝐭𝐬 𝐨𝐟 𝐭𝐡𝐞 𝐏𝐫𝐨𝐣𝐞𝐜𝐭 :-
 
-1] 𝐓𝐨𝐩𝐢𝐜 𝐃𝐢𝐬𝐭𝐫𝐢𝐛𝐮𝐭𝐢𝐨𝐧 
+1] 𝐓𝐨𝐩𝐢𝐜 𝐃𝐢𝐬𝐭𝐫𝐢𝐛𝐮𝐭𝐢𝐨𝐧:
+
  » Payment-related issues seem to be the most common topic, followed by Technical Support and Contract-related queries.
  
  » Admin Support and Streaming-related issues appear to have lower call volumes compared to other topics.
 
 2] 𝐑𝐞𝐬𝐨𝐥𝐮𝐭𝐢𝐨𝐧 𝐑𝐚𝐭𝐞 :
+
 » Contract-related queries, Technical Support and Payment-related calls shows a high resolution rate.
 
 3] 𝐒𝐩𝐞𝐞𝐝 𝐨𝐟 𝐀𝐧𝐬𝐰𝐞𝐫 
+
  » The average speed of answer varies across different topics, with some topics having quicker response times than others.
  
  » Admin Support and Contract-related calls tend to have faster response times compared to Technical Support and Payment-related calls.
 
 4] 𝐀𝐠𝐞𝐧𝐭 𝐏𝐞𝐫𝐟𝐨𝐫𝐦𝐚𝐧𝐜𝐞 
+
  » To analyze the performance of individual agents based on metrics like average talk duration, resolution rate, and speed of answer.
  
  » Top-performing agents like Martha, Diane could be identified for recognition or additional training, while areas for improvement could be highlighted for others.
 
 5] 𝐓𝐫𝐞𝐧𝐝 𝐀𝐧𝐚𝐥𝐲𝐬𝐢𝐬:
+
  » There may be certain peak hours or periods of the day when call volumes are higher, which could help in optimizing agent scheduling.
  
  » 11, 13,17 peak hours of the day, when call volumes are higher.
 
 6] 𝐂𝐮𝐬𝐭𝐨𝐦𝐞𝐫 𝐒𝐚𝐭𝐢𝐬𝐟𝐚𝐜𝐭𝐢𝐨𝐧 :
+
  » Understanding the relationship between call resolution and customer satisfaction could provide valuable insights into service quality.
  
  » Monitoring unresolved calls and their impact on customer satisfaction could be crucial for improving overall customer experience.
 
 7] 𝐓𝐫𝐚𝐢𝐧𝐢𝐧𝐠 & 𝐑𝐞𝐬𝐨𝐮𝐫𝐜𝐞 𝐀𝐥𝐥𝐨𝐜𝐚𝐭𝐢𝐨𝐧 :
+
  » Identifying topics with higher call volumes or longer average talk durations could indicate areas where additional training or resources may be needed.
  
  » Optimizing agent allocation based on call volumes and topics could help in improving efficiency and customer service quality.
 
-►These insights can serve as a foundation for further analysis and decision-making aimed at improving customer service operations and enhancing overall customer satisfaction.
+✅ These insights can serve as a foundation for further analysis and decision-making aimed at improving customer service operations and enhancing overall customer satisfaction.
+
+
+![Screenshot 2024-03-12 021926](https://github.com/purvaphalak/PWC_Internship/assets/148857209/3082cee0-fb8a-49f5-b60a-583d31fe5ede)
+
+
+![Screenshot 2024-03-12 024151](https://github.com/purvaphalak/PWC_Internship/assets/148857209/eeab87c3-d9be-44a3-b707-27d8ea53e2cf)
 
 
 
 
-## ✨ 𝐓𝐚𝐬𝐤 𝟐 : Customer Churn Analysis
+## ✨ TASK 2 : Customer Churn Analysis
+
 » As a part of the PwC Switzerland Virtual Internship Program offered by Forage, I have created a "𝐂𝐮𝐬𝐭𝐨𝐦𝐞𝐫 𝐂𝐡𝐮𝐫𝐧 𝐀𝐧𝐚𝐥𝐲𝐬𝐢𝐬" Dashboard, using Power BI.
 
 ### ➡️ Objective :
 The Telecommunications Retention Manager is actively seeking a comprehensive solution to elevate customer retention efforts and mitigate customer churn.
 
-➼ 𝐂𝐡𝐮𝐫𝐧 𝐑𝐚𝐭𝐞 :
+##### ➼ Churn Rate :
 The churn rate, which indicates the percentage of customers who stopped using the service during a certain time period, seems to be a significant factor. It would be helpful to analyze the churn rate to understand why customers are leaving and take appropriate actions to reduce it.
 
-➼ 𝐃𝐞𝐦𝐨𝐠𝐫𝐚𝐩𝐡𝐢𝐜 𝐀𝐧𝐚𝐥𝐲𝐬𝐢𝐬 :
+##### ➼ Demographic Analysis :
 
 • 𝐆𝐞𝐧𝐝𝐞𝐫 𝐃𝐢𝐬𝐭𝐫𝐢𝐛𝐮𝐭𝐢𝐨𝐧 :
 This section displays the count of customers based on their gender, categorized as male and female.
@@ -72,18 +89,21 @@ Customers who have subscribed to online security and tech support services have 
 •𝐂𝐨𝐧𝐭𝐫𝐚𝐜𝐭 𝐓𝐲𝐩𝐞 :
 Customers with longer contract durations (e.g., one year or two years) is less likely to churn compared to those on a month-to-month contract.
 
-➼ 𝐁𝐢𝐥𝐥𝐢𝐧𝐠 & 𝐏𝐚𝐲𝐦𝐞𝐧𝐭 :
+##### ➼ Billing & Payment :
 
 • 𝐏𝐚𝐩𝐞𝐫𝐥𝐞𝐬𝐬 𝐁𝐢𝐥𝐥𝐢𝐧𝐠 :
+
 Customers who opt for paperless billing may have different behavior compared to those who receive paper bills.
 
 • 𝐏𝐚𝐲𝐦𝐞𝐧𝐭 𝐌𝐞𝐭𝐡𝐨𝐝 :
+
 The choice of payment method (e.g., electronic check, credit card, bank transfer) might influence customer loyalty and churn rate.
 
 •𝐌𝐨𝐧𝐭𝐡𝐥𝐲 𝐂𝐡𝐚𝐫𝐠𝐞𝐬 :
+
 Monthly charges vary across customers, with some paying as low as $20 and others paying over $100. Understanding the reasons behind these differences can help in pricing strategies and  customer retention efforts.
 
-### ➡️𝐈𝐧𝐬𝐢𝐠𝐡𝐭𝐬 𝐨𝐟 𝐭𝐡𝐞 𝐏𝐫𝐨𝐣𝐞𝐜𝐭 :-
+### ➡️ Insights of the Projects :-
 
 #### Overview:
 
@@ -112,9 +132,22 @@ Monthly charges vary across customers, with some paying as low as $20 and others
 
 • Customers should be subscribed to more services & plans with longer tenures which are offered by the company's
 
-►  As a part of the PwC Switzerland Virtual Internship Program offered by Forage, I have developed a "𝐃𝐢𝐯𝐞𝐫𝐬𝐢𝐭𝐲 & 𝐈𝐧𝐜𝐥𝐮𝐬𝐢𝐨𝐧" Dashboard using Power BI.
 
-### ✨ 𝐓𝐚𝐬𝐤 𝟑 : Diversity & Inclusion Dashboard
+![Screenshot 2024-03-13 121559](https://github.com/purvaphalak/PWC_Internship/assets/148857209/88341606-16ae-47a4-97c9-77e5a8b54170)
+
+
+![Screenshot 2024-03-13 122217](https://github.com/purvaphalak/PWC_Internship/assets/148857209/b06d9843-7430-48ec-a5e5-32eda191b3a8)
+
+
+![Screenshot 2024-03-13 121128](https://github.com/purvaphalak/PWC_Internship/assets/148857209/f8c7c8ae-dd83-49c3-a09e-96a3c0189ea9)
+
+
+
+
+
+## ✨ 𝐓𝐚𝐬𝐤 𝟑 : Diversity & Inclusion Dashboard
+
+►  As a part of the PwC Switzerland Virtual Internship Program offered by Forage, I have developed a "𝐃𝐢𝐯𝐞𝐫𝐬𝐢𝐭𝐲 & 𝐈𝐧𝐜𝐥𝐮𝐬𝐢𝐨𝐧" Dashboard using Power BI.
 
 ► Telecom client partners with PwC Switzerland to boost executive gender balance through diversity and inclusion.
 
@@ -125,28 +158,81 @@ Monthly charges vary across customers, with some paying as low as $20 and others
 ✤ During the project below is the points cover in dashboard :-
 
 1] No. of Employee
+
 2] No. of Men Employee
+
 3] No. of Female Employee
+
 4] Hired Employees Men vs Female.
+
 5] Employees Promoted (FY20) & (FY21)
+
 6] Male Employees Promoted (FY20) & (FY21)
+
 7] Female Employees Promoted (FY20) & (FY21)
+
 8] Turnover
+
 9] Average Performance Rating Men
+
 10] Average Performance Rating Women
 
-### ►  𝐊𝐞𝐲 𝐏𝐞𝐫𝐟𝐨𝐫𝐦𝐚𝐧𝐜𝐞 𝐈𝐧𝐝𝐢𝐜𝐚𝐭𝐨𝐫𝐬 ( 𝐊𝐏𝐈'𝐬) :
-➼ 𝐇𝐢𝐫𝐢𝐧𝐠: 
+### ➡️  Key Performance Indicators ( KPI'S) : 
+
+➤ 𝐇𝐢𝐫𝐢𝐧𝐠: 
+
 By tracking % of hires Men vs. Women, we gain visibility into recruitment practices, ensuring a balanced workforce from the outset.
 
-➼𝐏𝐫𝐨𝐦𝐨𝐭𝐢𝐨𝐧 :
+➤ 𝐏𝐫𝐨𝐦𝐨𝐭𝐢𝐨𝐧 :
+
  Measuring % of promotions- Men vs. Women, identifying and celebrating talent, ensuring opportunities are equitable and merit-based.
 
-➼ 𝐏𝐞𝐫𝐟𝐨𝐫𝐦𝐚𝐧𝐜𝐞 :
+➤ 𝐏𝐞𝐫𝐟𝐨𝐫𝐦𝐚𝐧𝐜𝐞 :
+
 Assessing average performance ratings - Men vs. Women, pinpoint potential biases and create a fair evaluation system.
 
-➼ 𝐓𝐮𝐫𝐧𝐨𝐯𝐞𝐫 :
+➤ 𝐓𝐮𝐫𝐧𝐨𝐯𝐞𝐫 :
+
 Monitoring % turnover - Men vs. Women, identify areas of concern, ensuring our workplace retains diverse talent.
 
 » The final goal is the practical approach to address gender balance challenges in the workplace. The goal is not only to set strategic objectives but also to measure, analyze, and continuously improve diversity and inclusion initiatives.
+
+
+![Screenshot 2024-03-21 134653](https://github.com/purvaphalak/PWC_Internship/assets/148857209/b9796441-0f6e-4be9-9738-fdeae6368a2e)
+
+
+![Screenshot 2024-03-21 134739](https://github.com/purvaphalak/PWC_Internship/assets/148857209/fbdc657b-b195-47f0-93b6-1e55e2ee2beb)
+
+
+► During this program, I strengthened my Power BI skills to better understand clients and their data visualization needs :-
+
+➼ 𝑫𝒂𝒕𝒂 𝑽𝒊𝒔𝒖𝒂𝒍𝒊𝒛𝒂𝒕𝒊𝒐𝒏 𝑴𝒂𝒔𝒕𝒆𝒓𝒚 :
+
+ Explored Power BI intricacies, mastering advanced visualization techniques.
+
+ ➼𝑷𝒓𝒂𝒄𝒕𝒊𝒄𝒂𝒍 𝑫𝒂𝒕𝒂 𝑨𝒏𝒂𝒍𝒚𝒔𝒊𝒔 :
+ 
+ Applied theoretical knowledge to real datasets, refining analytical skills.
+
+ ➼ 𝑺𝒕𝒓𝒂𝒕𝒆𝒈𝒊𝒄 𝑰𝒏𝒔𝒊𝒈𝒉𝒕 𝑬𝒙𝒕𝒓𝒂𝒄𝒕𝒊𝒐𝒏 :
+ 
+ Learned to extract actionable insights from complex data, driving strategic decision-making.
+
+ ➼ 𝑰𝒏𝒏𝒐𝒗𝒂𝒕𝒊𝒗𝒆 𝑷𝒓𝒐𝒃𝒍𝒆𝒎 𝑺𝒐𝒍𝒗𝒊𝒏𝒈 :
+ 
+ Developed creative solutions to data challenges, fostering innovative thinking.
+
+ ➼ 𝑬𝒇𝒇𝒆𝒄𝒕𝒊𝒗𝒆 𝑪𝒐𝒎𝒎𝒖𝒏𝒊𝒄𝒂𝒕𝒊𝒐𝒏 𝒐𝒇 𝑭𝒊𝒏𝒅𝒊𝒏𝒈𝒔: 
+ 
+ Acquired skills in conveying insights clearly and persuasively, enhancing communication effectiveness.
+
+ ➼ 𝑭𝒖𝒕𝒖𝒓𝒆 𝑭𝒐𝒄𝒖𝒔𝒆𝒅 𝑳𝒆𝒂𝒓𝒏𝒊𝒏𝒈 :
+ 
+ Positioned for success with practical skills applicable across industries.
+
+✅ Thanks to Forage and PwC for giving me this incredible opportunity to work on amazing datasets and build data visualization reports and KPI visualizations.✨
+
+
+
+
 
