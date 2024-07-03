@@ -3,7 +3,8 @@
 » During this program, I performed various tasks that helped me learn essential skills required for data analysis and data visualization using Power BI in a meaningful manner.
 
 
- ## ✨ 𝐓𝐚𝐬𝐤 𝟏 : Call Centre Analysis
+ ## ✨ TASK 1 : Call Centre Analysis
+ 
 ► As a part of the PwC Switzerland Virtual Internship Program offered by Forage, I have created a "Call Center Analysis" Dashboard, using Power BI. This dataset containing call records from a customer service center. Each row represents a call with various attributes such as Call Id, Agent, Date, Time, Topic, whether it was Answered (Yes/No), Resolved, Speed of answer in seconds, and Average Talk Duration. 
 
 ### ➡️ Objective:
@@ -67,6 +68,7 @@
 » As a part of the PwC Switzerland Virtual Internship Program offered by Forage, I have created a "𝐂𝐮𝐬𝐭𝐨𝐦𝐞𝐫 𝐂𝐡𝐮𝐫𝐧 𝐀𝐧𝐚𝐥𝐲𝐬𝐢𝐬" Dashboard, using Power BI.
 
 ### ➡️ Objective :
+
 The Telecommunications Retention Manager is actively seeking a comprehensive solution to elevate customer retention efforts and mitigate customer churn.
 
 ##### ➼ Churn Rate :
@@ -75,18 +77,23 @@ The churn rate, which indicates the percentage of customers who stopped using th
 ##### ➼ Demographic Analysis :
 
 • 𝐆𝐞𝐧𝐝𝐞𝐫 𝐃𝐢𝐬𝐭𝐫𝐢𝐛𝐮𝐭𝐢𝐨𝐧 :
+
 This section displays the count of customers based on their gender, categorized as male and female.
 
 • 𝐓𝐞𝐧𝐮𝐫𝐞 :
+
 The tenure of customers varies widely, ranging from 1 to 72 months. This suggests that the service has both new and long-standing customers.
 
 • 𝐈𝐧𝐭𝐞𝐫𝐧𝐞𝐭 𝐒𝐞𝐫𝐯𝐢𝐜𝐞 :
+
 Fiber optic appears to be the most popular internet service among customers, followed by DSL.
 
 • 𝐎𝐧𝐥𝐢𝐧𝐞 𝐒𝐞𝐜𝐮𝐫𝐢𝐭𝐲 & 𝐓𝐞𝐜𝐡 𝐒𝐮𝐩𝐩𝐨𝐫𝐭 :
+
 Customers who have subscribed to online security and tech support services have a lower churn rate as they value security and assistance.
 
 •𝐂𝐨𝐧𝐭𝐫𝐚𝐜𝐭 𝐓𝐲𝐩𝐞 :
+
 Customers with longer contract durations (e.g., one year or two years) is less likely to churn compared to those on a month-to-month contract.
 
 ##### ➼ Billing & Payment :
@@ -99,7 +106,7 @@ Customers who opt for paperless billing may have different behavior compared to 
 
 The choice of payment method (e.g., electronic check, credit card, bank transfer) might influence customer loyalty and churn rate.
 
-•𝐌𝐨𝐧𝐭𝐡𝐥𝐲 𝐂𝐡𝐚𝐫𝐠𝐞𝐬 :
+• 𝐌𝐨𝐧𝐭𝐡𝐥𝐲 𝐂𝐡𝐚𝐫𝐠𝐞𝐬 :
 
 Monthly charges vary across customers, with some paying as low as $20 and others paying over $100. Understanding the reasons behind these differences can help in pricing strategies and  customer retention efforts.
 
