@@ -1,4 +1,4 @@
-# PWC_Internship
+# PWC Power-BI Virtual Internship
 
 » During this program, I performed various tasks that helped me learn essential skills required for data analysis and data visualization using Power BI in a meaningful manner.
 
